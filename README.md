@@ -10,7 +10,9 @@ Click the video below to watch a dynamic visualization of the full Twitter inter
 
 > 📽️ **Watch the animated network:** 
 
-![Network Visualization](network_visualization.MP4)
+![Network Visualization] (https://github.com/user-attachments/assets/dd13282e-54bd-43de-b890-649b87716e02)
+
+
 
 ---
 
